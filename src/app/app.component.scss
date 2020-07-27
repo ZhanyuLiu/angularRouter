@@ -1,0 +1,14 @@
+.header {
+    height: 44px;
+    line-height: 44px;
+    background-color: #000000;
+    color: #ffffff;
+    a {
+        color: #ffffff;
+        padding: 10px 40px;
+    }
+    .router-link-active {
+        color: green;
+        font-weight: 700;
+    }
+}
